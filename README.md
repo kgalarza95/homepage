@@ -1,2 +1,2 @@
 # homepage
-🧙¡Hocus-pocus!
+Mi propio sitio web personal. CV con los datos más importantes.
